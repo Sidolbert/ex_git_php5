@@ -3,4 +3,5 @@
 echo "hello git !";
 //echo "coucou php5 et surtout amir";
 echo "coucou php5 et surtout moi-même";
+echo "et c'est parti !";
 
