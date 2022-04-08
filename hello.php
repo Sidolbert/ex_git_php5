@@ -1,4 +1,6 @@
 <?php
 //mon premier test de Git !
 echo "hello git !";
-echo "bonjour aussi Amir !";
+
+echo "coucou php5 et surtout amir";
+
