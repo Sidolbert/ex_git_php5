@@ -1,7 +1,20 @@
 <?php
 //mon premier test de Git !
-echo "hello git !";
 //echo "coucou php5 et surtout amir";
-echo "coucou php5 et surtout moi-même";
-echo "et c'est parti !";
 
+/**
+ * nouveau changement
+ */
+echo "encore un petit changement dans le code" ;
+coucou_me_voila();
+
+/**
+ * coucou
+ *
+ * @return void
+ */
+function coucou_me_voila(){
+
+    echo "coucou me voila !!!!";
+
+}
